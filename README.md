@@ -1,12 +1,12 @@
 # WEEK 4
 
-**EXERCISE 2 - JavaScript Basics Part 2**
+**EXERCISE 4 - JavaScript Basics Part 2**
 
 NAME: JACOB GABRIEL L. ARIAS
 
 DEGREE PROGRAM: BS Computer Science
 
-SECTION: V-6L
+SECTION: C-3L
 
 Takeaways:
 
