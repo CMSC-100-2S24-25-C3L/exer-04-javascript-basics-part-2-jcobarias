@@ -12,7 +12,8 @@ function generateUniqueID(fname, lname){
 
 }
 function addAccount(array){
-    if(array[0].length != 0 && array[1].length != 0 && array[2].length != 0){
+    if(array[0] != null && array[1] != null && array[2] != null && array[3] != null &&
+        array[0].length != 0 && array[1].length != 0 && array[2].length != 0){
         if(validator.isEmail(array[2]) && array[3] >= 18){  
             var uniqueid = generateUniqueID(array[0], array[1]);
             array.push(uniqueid);
