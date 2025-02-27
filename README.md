@@ -1,4 +1,4 @@
-# WEEK 3
+# WEEK 4
 
 **EXERCISE 2 - JavaScript Basics Part 2**
 
