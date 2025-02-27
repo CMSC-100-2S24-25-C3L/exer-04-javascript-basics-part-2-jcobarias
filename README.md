@@ -10,7 +10,7 @@ SECTION: C-3L
 
 Takeaways:
 
-    - I learned how to user packages in order to achieve certain tasks.
+    - I learned how to use packages in order to achieve certain tasks.
 
 References:
     https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
